@@ -1,2 +1,1 @@
-# RoseDayWebsite
-Rose Day Website
+# Rose-Day
